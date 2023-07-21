@@ -1,0 +1,56 @@
+.container-todo {
+    background-color: #607c6d;
+     border: 1px solid #f7f7f7; 
+    border-radius: 4px; 
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .container-todo p {
+    margin: 0;
+    
+  }
+  
+ 
+
+  .todos{
+    /* color: #333; */
+    font-size: 20;
+  }
+
+
+
+
+  .controls-todo {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 4px; */
+    padding: 0 10px;
+  }
+  
+  .controls-todo input {
+    flex: 1;
+    /* border: none;
+    outline: none; */
+    font-size: 16px;
+    /* border: 1px solid #e4eaa6;  */
+    border-radius: 4px;
+  }
+  
+  .controls-todo button {
+    /* margin-left: 10px; */
+    padding: 6px 12px;
+    background-color: #907225;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+
+ 
